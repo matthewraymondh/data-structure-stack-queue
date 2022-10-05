@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664769123 source:d:\a11.2021.13231\nar\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
